@@ -15,12 +15,6 @@ Calculadora gráfica desenvolvida em Python utilizando a biblioteca Tkinter.
 - Python
 - Tkinter
 
-## Como executar
-
-```bash
-python calculadora.py
-```
-
 ## Demonstração
 
 ![Calculadora](Captura%20de%20tela%202026-06-30%20080918.png)
