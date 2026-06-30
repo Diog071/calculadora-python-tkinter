@@ -22,7 +22,7 @@ def clicar(botao):
 # Janela principal
 janela = tk.Tk()
 janela.title("Calculadora")
-janela.geometry("300x400")
+janela.geometry("300x425")
 janela.resizable(False, False)
 
 # Campo de entrada
